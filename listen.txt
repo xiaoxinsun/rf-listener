@@ -1,0 +1,7 @@
+Acceptance ''
+Test Case 1 ''
+- TC_001 Login Logout functionality '' [  ] :: FAIL: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+FAIL
+
+FAIL
+
